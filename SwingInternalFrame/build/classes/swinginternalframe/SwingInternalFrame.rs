@@ -1,0 +1,3 @@
+swinginternalframe.MyFrame
+swinginternalframe.SwingInternalFrame
+swinginternalframe.MyInternalFrame
